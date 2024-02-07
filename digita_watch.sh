@@ -3,7 +3,6 @@
 
 >> commint
    AuthorName: ADITYA JAIN
-   Project: DigitaWatch 
    commint
 
 RED="\e[31m"
